@@ -6,7 +6,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:101820,100:00E5FF&height=220&section=header&text=ANA%20CLARA%20OLIVEIRA%20ALVES&fontSize=32&fontColor=00E5FF&fontAlignY=38&desc=FULL%20STACK%20%2F%20WEB%20DEVELOPER&descAlignY=60&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:101820,100:#A855F7&height=220&section=header&text=ANA%20CLARA%20OLIVEIRA%20ALVES&fontSize=32&fontColor=00E5FF&fontAlignY=38&desc=FULL%20STACK%20%2F%20WEB%20DEVELOPER&descAlignY=60&descSize=18&animation=fadeIn"/>
 
 <br>
 
