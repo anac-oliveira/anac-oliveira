@@ -1,23 +1,17 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                         SYSTEM BOOT                            -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:101820,100:#A855F7&height=220&section=header&text=ANA%20CLARA%20OLIVEIRA%20ALVES&fontSize=32&fontColor=00E5FF&fontAlignY=38&desc=FULL%20STACK%20%2F%20WEB%20DEVELOPER&descAlignY=60&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:171020,100:A855F7&height=220&section=header&text=ANA%20CLARA%20OLIVEIRA%20ALVES&fontSize=32&fontColor=D8B4FE&fontAlignY=38&desc=FULL%20STACK%20%2F%20WEB%20DEVELOPER&descAlignY=60&descSize=18&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=850&lines=%3E+INITIALIZING+SYSTEM...;%3E+WELCOME%2C+I'M+ANA+CLARA;%3E+FULL+STACK+%2F+WEB+DEVELOPER;%3E+CODE+FULLSTACK+%7C+SENAI+CYBER+E+IA;%3E+JAVASCRIPT+%7C+REACT+%7C+APIs+%7C+SQL+SERVER;%3E+BUILDING+IDEAS+INTO+REAL+APPLICATIONS..."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=700&color=A855F7&center=true&vCenter=true&width=850&lines=%3E+INITIALIZING+SYSTEM...;%3E+WELCOME%2C+I'M+ANA+CLARA;%3E+FULL+STACK+%2F+WEB+DEVELOPER;%3E+CODE+FULLSTACK+%7C+SENAI+CYBER+E+IA;%3E+JAVASCRIPT+%7C+REACT+%7C+APIs+%7C+SQL+SERVER;%3E+BUILDING+IDEAS+INTO+REAL+APPLICATIONS..." alt="Typing Animation"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=anac-oliveira&style=for-the-badge&color=00E5FF&label=SYSTEM%20VISITS"/>
+<img src="https://komarev.com/ghpvc/?username=anac-oliveira&style=for-the-badge&color=A855F7&labelColor=171020&label=SYSTEM%20VISITS"/>
 
 <a href="https://github.com/anac-oliveira">
-<img src="https://img.shields.io/github/followers/anac-oliveira?style=for-the-badge&logo=github&logoColor=white&color=0D1117&labelColor=00E5FF&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/followers/anac-oliveira?style=for-the-badge&logo=github&logoColor=FFFFFF&color=171020&labelColor=A855F7&label=FOLLOWERS"/>
 </a>
 
 </div>
@@ -108,7 +102,7 @@ const ana = {
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🎓%20CODE%20FULLSTACK-00E5FF?style=for-the-badge&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/🎓%20CODE%20FULLSTACK-A855F7?style=for-the-badge&logoColor=0D1117"/>
 
 ### **Code FullStack**
 
@@ -116,7 +110,7 @@ const ana = {
 
 **São Caetano do Sul**
 
-<img src="https://img.shields.io/badge/STATUS-COMPLETED-00E5FF?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/STATUS-COMPLETED-A855F7?style=flat-square&labelColor=171020"/>
 
 </div>
 
@@ -202,10 +196,10 @@ const ana = {
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Git-171020?style=for-the-badge&logo=git&logoColor=A855F7"/>
+<img src="https://img.shields.io/badge/GitHub-171020?style=for-the-badge&logo=github&logoColor=A855F7"/>
+<img src="https://img.shields.io/badge/VS%20Code-171020?style=for-the-badge&logo=visualstudiocode&logoColor=A855F7"/>
+<img src="https://img.shields.io/badge/Postman-171020?style=for-the-badge&logo=postman&logoColor=A855F7"/>
 
 </div>
 
@@ -216,11 +210,11 @@ const ana = {
 <div align="center">
 
 <a href="https://github.com/anac-oliveira/BurguerStation.API">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anac-oliveira&repo=BurguerStation.API&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anac-oliveira&repo=BurguerStation.API&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=E9D5FF"/>
 </a>
 
 <a href="https://github.com/anac-oliveira/CodeBolosJacquin.API">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anac-oliveira&repo=CodeBolosJacquin.API&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anac-oliveira&repo=CodeBolosJacquin.API&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=E9D5FF"/>
 </a>
 
 </div>
@@ -236,7 +230,7 @@ Projeto de API relacionado a uma aplicação de hamburgueria, trabalhando com re
 `API` `Back-End` `Database` `Products` `Categories` `Comments`
 
 <a href="https://github.com/anac-oliveira/BurguerStation.API">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-A855F7?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 ---
@@ -250,7 +244,7 @@ Projeto de API desenvolvido para trabalhar conceitos de desenvolvimento Back-End
 `API` `Back-End` `Database` `Integration`
 
 <a href="https://github.com/anac-oliveira/CodeBolosJacquin.API">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-A855F7?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 ---
@@ -262,7 +256,7 @@ Projeto desenvolvido dentro da trajetória de estudos e construção de aplicaç
 O projeto faz parte do portfólio apresentado no GitHub.
 
 <a href="https://github.com/anac-oliveira">
-<img src="https://img.shields.io/badge/VIEW_ON_GITHUB-00E5FF?style=for-the-badge&logo=github&logoColor=0D1117"/>
+<img src="https://img.shields.io/badge/VIEW_ON_GITHUB-A855F7?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 ---
@@ -293,9 +287,9 @@ O projeto faz parte do portfólio apresentado no GitHub.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anac-oliveira&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&rank_icon=github&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anac-oliveira&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=E9D5FF&rank_icon=github&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anac-oliveira&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anac-oliveira&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E9D5FF&langs_count=8"/>
 
 </div>
 
@@ -303,7 +297,7 @@ O projeto faz parte do portfólio apresentado no GitHub.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=anac-oliveira&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E" width="75%"/>
+<img src="https://streak-stats.demolab.com?user=anac-oliveira&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=C026D3&currStreakLabel=A855F7&sideLabels=E9D5FF&dates=8B949E" width="75%"/>
 
 </div>
 
@@ -313,7 +307,7 @@ O projeto faz parte do portfólio apresentado no GitHub.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anac-oliveira&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true&custom_title=ANA%20CLARA%20-%20CONTRIBUTION%20MATRIX" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anac-oliveira&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area=true&hide_border=true&custom_title=ANA%20CLARA%20-%20CONTRIBUTION%20MATRIX" width="100%"/>
 
 </div>
 
@@ -358,7 +352,7 @@ SYSTEM → ONLINE
 <div align="center">
 
 <a href="https://github.com/anac-oliveira">
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/GITHUB-171020?style=for-the-badge&logo=github&logoColor=A855F7"/>
 </a>
 
 </div>
@@ -385,7 +379,7 @@ SYSTEM → ONLINE
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:101820,100:0D1117&height=130&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8FF,50:7E22CE,100:0D1117&height=130&section=footer&animation=fadeIn"/>
 
 ### `SYSTEM STATUS: ONLINE`
 
